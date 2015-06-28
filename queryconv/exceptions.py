@@ -1,0 +1,2 @@
+class QueryConverterTypeError(Exception):
+    pass
